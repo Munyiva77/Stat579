@@ -7,3 +7,5 @@ Creating the first repository for stat 579
 Theoretical data
 COMSOL MultiPhysics
 Partner repo
+
+- for forking
